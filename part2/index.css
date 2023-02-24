@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(86, 223, 223);
+    text-align: center;
+}
+
+#deck-of-cards img{
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
